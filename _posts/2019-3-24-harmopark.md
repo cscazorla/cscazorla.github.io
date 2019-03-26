@@ -12,4 +12,4 @@ Podemos usar los botones hexagonales como un instrumento virtual y tocar acordes
 
 Además de jugar con las teclas como si fuera un piano, Harmopark te permite *construir acordes* (visualizando la construcción de acordes que hemos seleccionado), *harmonizar escalas* (nos permite explorar la harmonía en cualquier tono) y crear *progresiones de acordes* (con información sobre las progresiones paralelas y negativas).
 
-https://www.harmopark.app
+[https://www.harmopark.app](https://www.harmopark.app)
